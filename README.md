@@ -48,6 +48,6 @@ This project concentrates on details of protection, governance and monitoring of
 [cummulative-3-1-1-contact-centre-metrics.xlsx](https://github.com/user-attachments/files/17020770/cummulative-3-1-1-contact-centre-metrics.xlsx)
 ## Methodology:
 * The process involves 3 different steps explained below:
-* Step 15: Data Protection
-* Step 16: Data Governance
-* Step 17: Data Monitoring
+   * Step 15: Data Protection
+   * Step 16: Data Governance
+   * Step 17: Data Monitoring
