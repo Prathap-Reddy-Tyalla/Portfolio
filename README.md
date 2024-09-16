@@ -28,6 +28,18 @@ The City of Vancouver is increasingly leveraging data to improve its operations 
 ## Methodology:
 * The process involves 13 different steps explained in detail below:
     * Step1: Data Analytical Question Formulation
+    * Step2: Data Discovery
+    * Step3: Data Storage Design
+    * Step4: Data Preparation
+    * Step5: Data Ingestion
+    * Step6: Data Storage
+    * Step7: Data Pipeline Design
+    * Step8 & 9: Data Cleaning & Structuring
+    * Step10: Data Pipeline Implementation
+    * Step11: Data Analysis
+    * Step 12: Data Visualization
+    * Step 13: Data Publishing
+    * Step14: Cost Estimation
 
 ___
 
